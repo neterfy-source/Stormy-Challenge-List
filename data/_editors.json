@@ -1,7 +1,7 @@
 [
     {
-        "role": "",
-        "zzstormy": "Owner",
+        "role": "owner",
+        "zzstormy": "List Owner",
         "link": "https://www.youtube.com/@zzstormy"
     },
     {
@@ -12,7 +12,7 @@
     {
         "role": "helper",
         "Rando": "List Helper",
-        "link": "https://www.youtube.com/@RandoGMD/videos"
+        "link": "https://www.youtube.com/@RandoGMD"
     },
     {
         "role": "trial",
